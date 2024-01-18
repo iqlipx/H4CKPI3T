@@ -12,7 +12,7 @@ H4CKPI3T is a collection of CTF writeups, providing insights and solutions to ch
 ## CTF Writeups
 Explore the CTF writeups available in this repository:
 
-- [BRAIN_FUCK](./BRAIN_FUCK_WRITEUPS.pdf)
+- [BRAIN_FUCK](BRAIN_FUCK_WRITEUPS.pdf)
 
 
 
